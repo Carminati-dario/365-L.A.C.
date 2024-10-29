@@ -28,11 +28,13 @@
 ### 1. Requisiti funzionali
   I requisiti funzionali per questa applicazione sono: 
   - Aggiunta di un nuovo cliente;
-  - Visuallizare clienti vecchi e le informazioni legate ad essi;
+  - Visuallizare clienti già registrati e le informazioni legate ad essi ed eventualmente eliminarli;
   - Aggiungere la data di ritiro di una fornitura;
   - Scadenza fornitura così da essere in grado di ordinare le lenti;
   - Scadenza controllo ovvero quando scade il controllo gratuito della visita;
-  - Scadenza contratto per informare l'utente che bisogna rifarlo se si vuole continuare ad usufruire del contratto
+  - Scadenza contratto per informare l'utente che bisogna rifarlo se si vuole continuare ad usufruire del contratto.
+
+    https://yuml.me/d5fc5976.svg
 
 ### 2. Requisiti non funzionali
   I requisiti non funzionali sono:
