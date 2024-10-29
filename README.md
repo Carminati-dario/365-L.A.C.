@@ -33,8 +33,7 @@
   - Scadenza fornitura così da essere in grado di ordinare le lenti;
   - Scadenza controllo ovvero quando scade il controllo gratuito della visita;
   - Scadenza contratto per informare l'utente che bisogna rifarlo se si vuole continuare ad usufruire del contratto.
-
-    https://yuml.me/d5fc5976.svg
+    ![Diagramma UML dei casi d'uso](https://yuml.me/d5fc5976.svg)
 
 ### 2. Requisiti non funzionali
   I requisiti non funzionali sono:
