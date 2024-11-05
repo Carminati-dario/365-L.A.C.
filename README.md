@@ -38,24 +38,29 @@
     - Possibilità di controllo della visita: vedere quando si ha la possibilità di usufruire della visita oculistica e la possibilità di prenotarla;
 
   - Gestione contratto:
-    - Scadenza contratto: visualizzare i clienti a cui sta scadendo il contratto con la possibilità di aggiornarlo o di cancellare il cliente se non lo rinnova.
+    - Scadenza contratto: visualizzare i clienti a cui sta scadendo il contratto con la possibilità di aggiornarlo o di cancellare il cliente se non lo rinnova;
+    - Cancellazione automatica: se selezionato il programma cancella in maniera automatica eventuali clienti vecchi che non hanno rinnovato il contratto.
 
   Inoltre il propietario o comunque chi gestisce il software ha anche questi requisiti:
   - Gestione venditori:
     - Aggiunta nuovi venditori: aggiunta di nuovi utenti che possono accedere al sito;
     - Modificare le password: il propietario ha la possibilità di modificare le password di tutti i dipendenti.
-    ![Diagramma UML dei casi d'uso](https://yuml.me/034924fb.svg)
+    ![Diagramma UML dei casi d'uso](https://yuml.me/6bd70785.svg)
 
 ### 2. Requisiti non funzionali
   I requisiti non funzionali sono:
    - Affidabilità: il programma dovrà essere affidabile ovvero non dovrà avere dei problemi che possono causare perdite di soldi all'azienda;
    - Efficente: il programma dovrà essere veloce nella risposta anche se dovrà analizzare tre diversi file e lavorarci su essi e dovrà occupare anche meno spazio possibile. In linea di massima la risposta dovrà        arrivare in un tempo massimo di 10 secondi;
-   - Usabilità: Il prodotto dovrà essere semplice e facile da usare e capire e non richiede particolare formazione agli utenti che dovranno usarlo;
-   - Sicurezza: La sicurezza del file sarà controllata tramite un login sia sui file contententi le informazioni dei contratti sia per l'uso del programma difatti ogni dipendente dell'azienda avrà con se un nome       utene e una password specifica.
+   - Usabilità: il prodotto dovrà essere semplice e facile da usare e capire e non richiede particolare formazione agli utenti che dovranno usarlo;
+   - Manutenibilità: il programma deve essere facilmente manutenuto e permettere aggiornamenti facili;
+   - Scalabilità: il software deve garantire sempre una buona efficenza anche in caso di molti dati da gestire;
+   - Backup e recupero dei dati: il programma deve garantire un meccanismo di backup e in caso di guasti o problemi esterni deve essere in grado di ripristinare i dati;
+   - Sicurezza: la sicurezza del file sarà controllata tramite un login sia sui file contententi le informazioni dei contratti sia per l'uso del programma difatti ogni dipendente dell'azienda avrà con se un nome       utene e una password specifica.
 ### 3. Requisiti di dominio
   I requisiti di dominio sono: 
   - Validità del contratto: il contratto deve effettivamente essere in vigore e quelli vecchi devono essere cancellati;
   - Periodicità delle forniture di lenti: il programma deve informare il negozio della scadenza della fornitura delle lenti a contatto dei diversi clienti, difatti la fornitura dura 4 mesi e un mese prima dell'esaurimento bisogna informare il negozio;
   - Controllo della vista gratuito: il programma deve verificare che il cliente possa effettivamente usufruire della visita oculistica gratis;
   - Normative sulla privacy e trattamento dei dati: L'applicazione deve gestire in maniera sicura i dati riguardanti i clienti e ai loro contratti;
+  - Sistema di Autorizzazioni e Ruoli: in base al ruolo che ogni utente potrà eseguire determinate operazioni;
   - Scadenza del contratto e procedure di rinnovo: Il programma deve garantire la possibilità di rinnovo del contratto di un cliente nel momento in cui va a scadere o la possibilità di eliminare il cliente se non rinnova.
