@@ -31,6 +31,7 @@
   - Gestione clienti:
     - Aggiunta di un nuovo cliente: per inserire un nuovo cliente all'interno del software;
     - Visuallizare clienti già registrati: visualizzando le informazioni legate ad essi ed eventualmente eliminarli e aggiornare le informazioni;
+
   -Gestione lenti a contatto:
     - Aggiungere la data di ritiro di una fornitura: per segnare che le lenti sono state ritirate;
     - Scadenza fornitura: avvisa quando sta scadendo la fornitura così e la possibilità di ordinarle;
