@@ -38,7 +38,7 @@
   Inoltre il propietario o comunque chi gestisce il software ha anche questi requisiti:
   - Aggiunta nuovi venditori: aggiunta di nuovi utenti che possono accedere al sito;
   - Modificare le password: il propietario ha la possibilità di modificare le password di tutti i dipendenti.
-    ![Diagramma UML dei casi d'uso](https://yuml.me/cf138896.svg)
+    ![Diagramma UML dei casi d'uso](https://yuml.me/69865404.svg)
 
 ### 2. Requisiti non funzionali
   I requisiti non funzionali sono:
