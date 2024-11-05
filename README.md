@@ -21,7 +21,7 @@
   Le tecnologie usate per sviluppare questo gesstionale sono:
   1. C#: Piattaforma di sviluppo con interfaccia grafica che semplifica l'utilizzo;
   2. ChatGPT: Supporto per risolvere eventuali problemi nello sviluppo del codice;
-  3. File CSV: File in cui si memorizzano tutte le informazioni sui clienti.
+  3. File CSV: File in cui si memorizzano tutte le informazioni.
 
 ## _Requisiti_
 
