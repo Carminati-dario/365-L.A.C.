@@ -4,7 +4,7 @@
   Applicazione per la gestione dei contratti dei clienti per la prenotazione delle lenti a contatto e il controllo della vista.
 
 ## _Descrizione_
-  Un applicazione in grado di gestire i contratti dei clienti che hanno deciso di firmare il 365 L.A.C. ovvero un contratto che fornisce una fornitura che dura un anno di lenti a contatto senza il bisogno di andare   in un negozio a prenotarle in quanto ci sono le forniture ogni 4 mesi. Questa applicazione è in grado di aggiungere un nuovo cliente o rimuoverlo, informare il negozio che sta per scadere un contratto o prenotare   le lenti a contatto per determinati clienti così da rimuovere tutti i fogli con sopra i clienti e rendere più veloce ed efficace il processo e da evitare eventuali dimenticanze. Inoltre nel contratto 365 L.A.C      c'è   una clausola che implica un controllo della vista gratuito che può essere effetuato solo dopo 6 mesi dalla sottoscrizione del contratto.
+  Un applicazione in grado di gestire i contratti dei clienti che hanno deciso di firmare il 365 L.A.C. ovvero un contratto che fornisce una fornitura che dura un anno di lenti a contatto senza il bisogno di     andare in un negozio a prenotarle in quanto ci sono le forniture ogni 4 mesi. Questa applicazione è in grado di aggiungere un nuovo cliente o rimuoverlo, informare il negozio che sta per scadere un contratto o    prenotare le lenti a contatto per determinati clienti così da rimuovere tutti i fogli con sopra i clienti e rendere più veloce ed efficace il processo e da evitare eventuali dimenticanze. Inoltre nel contratto 365 L.A.C c'è una clausola che implica un controllo della vista gratuito che può essere effetuato solo dopo 6 mesi dalla sottoscrizione del contratto.
 
 ## _Target_
   Questa applicazione è particolarmente utile per tutti i negozi di ottica che hanno deciso di partecipare al progetto 365 L.A.C.
@@ -27,7 +27,7 @@
 
 ### 1. Requisiti funzionali
   I requisiti funzionali per questa applicazione sono divisi nel seguente modo:
-  - L'accesso: solo le persone autorizzate possono accedere al servizio;
+  - Login: solo le persone autorizzate possono accedere al servizio;
   - Gestione clienti:
     - Aggiunta di un nuovo cliente: per inserire un nuovo cliente all'interno del software;
     - Visuallizare clienti già registrati: visualizzando le informazioni legate ad essi ed eventualmente eliminarli e aggiornare le informazioni;
@@ -35,7 +35,7 @@
   - Gestione lenti a contatto:
     - Aggiungere la data di ritiro di una fornitura: per segnare che le lenti sono state ritirate;
     - Scadenza fornitura: avvisa quando sta scadendo la fornitura così e la possibilità di ordinarle;
-    - Possibilità di controllo della visita: vedere quando si ha la possibilità di usufruire della visita oculistica e la possibilità di prenotarla;
+    - Possibilità di controllo della visita: vedere quando si ha la possibilità di usufruire del controllo della vista e la possibilità di prenotarla;
 
   - Gestione contratto:
     - Scadenza contratto: visualizzare i clienti a cui sta scadendo il contratto con la possibilità di aggiornarlo o di cancellare il cliente se non lo rinnova;
@@ -60,7 +60,7 @@
   I requisiti di dominio sono: 
   - Validità del contratto: il contratto deve effettivamente essere in vigore e quelli vecchi devono essere cancellati;
   - Periodicità delle forniture di lenti: il programma deve informare il negozio della scadenza della fornitura delle lenti a contatto dei diversi clienti, difatti la fornitura dura 4 mesi e un mese prima dell'esaurimento bisogna informare il negozio;
-  - Controllo della vista gratuito: il programma deve verificare che il cliente possa effettivamente usufruire della visita oculistica gratis;
+  - Controllo della vista gratuito: il programma deve verificare che il cliente possa effettivamente usufruire della prova della vista gratuita;
   - Normative sulla privacy e trattamento dei dati: L'applicazione deve gestire in maniera sicura i dati riguardanti i clienti e ai loro contratti;
-  - Sistema di Autorizzazioni e Ruoli: in base al ruolo che ogni utente potrà eseguire determinate operazioni;
-  - Scadenza del contratto e procedure di rinnovo: Il programma deve garantire la possibilità di rinnovo del contratto di un cliente nel momento in cui va a scadere o la possibilità di eliminare il cliente se non rinnova.
+  - Sistema di Autorizzazioni e Ruoli: in base al ruolo che ogni utente ha potrà eseguire determinate operazioni;
+  - Scadenza del contratto e procedure di rinnovo: Il programma deve garantire la possibilità di rinnovo del contratto di un cliente nel momento in cui va a scadere o la possibilità di eliminare il cliente se non è intenzionato al rinnovo.
