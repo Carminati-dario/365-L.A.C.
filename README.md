@@ -27,13 +27,18 @@
 
 ### 1. Requisiti funzionali
   I requisiti funzionali per questa applicazione sono: 
-  - Aggiunta di un nuovo cliente;
-  - Visuallizare clienti già registrati e le informazioni legate ad essi ed eventualmente eliminarli;
-  - Aggiungere la data di ritiro di una fornitura;
-  - Scadenza fornitura così da essere in grado di ordinare le lenti;
-  - Scadenza controllo ovvero quando scade il controllo gratuito della visita;
-  - Scadenza contratto per informare l'utente che bisogna rifarlo se si vuole continuare ad usufruire del contratto.
-    ![Diagramma UML dei casi d'uso](https://yuml.me/d14b5ed4.svg)
+  - L'accesso: solo le persone autorizzate possono accedere al servizio;
+  - Aggiunta di un nuovo cliente: per inserire un nuovo cliente all'interno del software;
+  - Visuallizare clienti già registrati: visualizzando le informazioni legate ad essi ed eventualmente eliminarli e aggiornare le informazioni;
+  - Aggiungere la data di ritiro di una fornitura: per segnare che le lenti sono state ritirate;
+  - Scadenza fornitura: avvisa quando sta scadendo la fornitura così e la possibilità di ordinarle;
+  - Possibilità di controllo della visita: vedere quando si ha la possibilità di usufruire della visita oculistica e la possibilità di prenotarla;
+  - Scadenza contratto: visualizzare i clienti a cui sta scadendo il contratto con la possibilità di aggiornarlo o di cancellare il cliente se non lo rinnova.
+
+    Inoltre il propietario o comunque chi gestisce il software ha anche questi requisiti:
+    - Aggiunta nuovi venditori: aggiunta di nuovi utenti che possono accedere al sito;
+    - Modificare le password: il propietario ha la possibilità di modificare le password di tutti i dipendenti.
+    ![Diagramma UML dei casi d'uso](https://yuml.me/cf138896.svg)
 
 ### 2. Requisiti non funzionali
   I requisiti non funzionali sono:
