@@ -14,8 +14,8 @@
 
 ## _Competitor_
   I competitor di questa applicazioni sono i gestionali che vengono forniti alle aziene e alcuni esempi possono essere:
-  - Zendesk
-  - Bitrix24
+  - Zendesk;
+  - Bitrix24.
 
 ## _Tecnologie usate_
   Le tecnologie usate per sviluppare questo gesstionale sono:
@@ -51,11 +51,11 @@
    - Affidabilità: il programma dovrà essere affidabile ovvero non dovrà avere dei problemi che possono causare perdite di soldi all'azienda;
    - Efficente: il programma dovrà essere veloce nella risposta anche se dovrà analizzare tre diversi file e lavorarci su essi e dovrà occupare anche meno spazio possibile. In linea di massima la risposta dovrà        arrivare in un tempo massimo di 10 secondi;
    - Usabilità: Il prodotto dovrà essere semplice e facile da usare e capire e non richiede particolare formazione agli utenti che dovranno usarlo;
-   - Sicurezza: La sicurezza del file sarà controllata tramite un login sia sui file contententi le informazioni dei contratti sia per l'uso del programma difatti ogni dipendente dell'azienda avrà con se un nome       utene e una password specifica,
+   - Sicurezza: La sicurezza del file sarà controllata tramite un login sia sui file contententi le informazioni dei contratti sia per l'uso del programma difatti ogni dipendente dell'azienda avrà con se un nome       utene e una password specifica.
 ### 3. Requisiti di dominio
   I requisiti di dominio sono: 
   - Validità del contratto: il contratto deve effettivamente essere in vigore e quelli vecchi devono essere cancellati;
-  - Periodicità delle forniture di lenti: il programma deve informare il negozio della scadenza della fornitura delle lenti a contatto dei diversi clienti, difatti la fornitura dura 4 mesi e un mese prima dell'esaurimento bisogna informare il negozio
+  - Periodicità delle forniture di lenti: il programma deve informare il negozio della scadenza della fornitura delle lenti a contatto dei diversi clienti, difatti la fornitura dura 4 mesi e un mese prima dell'esaurimento bisogna informare il negozio;
   - Controllo della vista gratuito: il programma deve verificare che il cliente possa effettivamente usufruire della visita oculistica gratis;
   - Normative sulla privacy e trattamento dei dati: L'applicazione deve gestire in maniera sicura i dati riguardanti i clienti e ai loro contratti;
   - Scadenza del contratto e procedure di rinnovo: Il programma deve garantire la possibilità di rinnovo del contratto di un cliente nel momento in cui va a scadere o la possibilità di eliminare il cliente se non rinnova.
