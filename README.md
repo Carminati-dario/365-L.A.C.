@@ -39,7 +39,7 @@
 
   - Gestione contratto:
     - Scadenza contratto: visualizzare i clienti a cui sta scadendo il contratto con la possibilità di aggiornarlo o di cancellare il cliente se non lo rinnova;
-    - Cancellazione automatica: se selezionato il programma cancella in maniera automatica eventuali clienti vecchi che non hanno rinnovato il contratto.
+    - Cancellazione automatica: se selezionato il programma cancella in maniera automatica eventuali clienti vecchi che non hanno rinnovato il contratto e li segnala a video.
 
   Inoltre il propietario o comunque chi gestisce il software ha anche questi requisiti:
   - Gestione venditori:
