@@ -13,12 +13,12 @@
   Il problema che va a risolvere questa applicazione è appunto la poca efficenza che viene usata in questo momento nella gestione dei contratti dei clienti visto che tutte le informazioni vengono tenute su fogli      aumentanto il rischio di errore o di dimenticanze nella prenotazione delle lenti a contatto.
 
 ## _Competitor_
-  I competitor di questa applicazioni sono i gestionali che vengono forniti alle aziene e alcuni esempi possono essere:
+  I competitor di questa applicazioni sono i gestionali che vengono forniti alle aziende e alcuni esempi possono essere:
   - Zendesk;
   - Bitrix24.
 
 ## _Tecnologie usate_
-  Le tecnologie usate per sviluppare questo gesstionale sono:
+  Le tecnologie usate per sviluppare questo gestionale sono:
   1. C#: Piattaforma di sviluppo con interfaccia grafica che semplifica l'utilizzo;
   2. ChatGPT: Supporto per risolvere eventuali problemi nello sviluppo del codice;
   3. File CSV: File in cui si memorizzano tutte le informazioni.
