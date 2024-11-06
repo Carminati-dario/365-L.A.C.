@@ -66,7 +66,7 @@
   - Scadenza del contratto e procedure di rinnovo: Il programma deve garantire la possibilità di rinnovo del contratto di un cliente nel momento in cui va a scadere o la possibilità di eliminare il cliente se non è intenzionato al rinnovo.
 
 ## _Modello di Business_
-  Il modello di business scelto per questo progetto è il modello Software as a service 
+  Il modello di business scelto per questo progetto è il modello Software as a service.
 
 ## _Elevator pitch_ 
   
