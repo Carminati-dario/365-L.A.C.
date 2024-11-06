@@ -64,3 +64,9 @@
   - Normative sulla privacy e trattamento dei dati: L'applicazione deve gestire in maniera sicura i dati riguardanti i clienti e ai loro contratti;
   - Sistema di Autorizzazioni e Ruoli: in base al ruolo che ogni utente ha potrà eseguire determinate operazioni;
   - Scadenza del contratto e procedure di rinnovo: Il programma deve garantire la possibilità di rinnovo del contratto di un cliente nel momento in cui va a scadere o la possibilità di eliminare il cliente se non è intenzionato al rinnovo.
+
+## _Modello di Business_
+  Il modello di business scelto per questo progetto è il modello Software as a service 
+
+## _Elevator pitch_ 
+  
