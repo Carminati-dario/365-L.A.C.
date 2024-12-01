@@ -44,7 +44,7 @@
   - Gestione venditori:
     - Aggiunta nuovi venditori: aggiunta di nuovi utenti che possono accedere al sito;
     - Modificare le password: il propietario ha la possibilità di modificare le password di tutti i dipendenti.
-    ![Diagramma UML dei casi d'uso](https://yuml.me/6bd70785.svg)
+    ![Diagramma UML dei casi d'uso](https://yuml.me/22e8e7ed.svg)
 
 ### 2. Requisiti non funzionali
   I requisiti non funzionali sono:
@@ -54,7 +54,7 @@
    - Manutenibilità: il programma deve essere facilmente manutenuto e permettere aggiornamenti facili;
    - Scalabilità: il software deve garantire sempre una buona efficenza anche in caso di molti dati da gestire;
    - Backup e recupero dei dati: il programma deve garantire un meccanismo di backup e in caso di guasti o problemi esterni deve essere in grado di ripristinare i dati;
-   - Sicurezza: la sicurezza del file sarà controllata tramite un login sia sui file contententi le informazioni dei contratti sia per l'uso del programma difatti ogni dipendente dell'azienda avrà con se un nome       utene e una password specifica.
+   - Sicurezza: la sicurezza dell'applicazione sarà controllata tramite un login sia sui file contenenti le informazioni dei contratti sia per l'uso del programma difatti ogni dipendente dell'azienda avrà con se        un nome utene e una password specifica.
 ### 3. Requisiti di dominio
   I requisiti di dominio sono: 
   - Validità del contratto: il contratto deve effettivamente essere in vigore e quelli vecchi devono essere cancellati;
