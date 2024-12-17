@@ -66,4 +66,13 @@
 
 ## _Modello di Business_
   Il modello di business scelto per questo progetto è il modello Software as a service.
+
+## _Product Vision_
+  **For** tutti i negozi di ottica che hanno deciso di partecipare al progetto 365 L.A.C.
+  **who** vogliono gestire in maniera automatica i contratti dei clienti
+  **the** 365 L.A.C. is a software
+  **that** semplifica la gestione dei clienti e aiuta a risparmiare tempo prezioso riducendo gli errori e portando ad un livello superiore il negozio che decide di acquistarlo
+  **unlike** Zendesk e Bitrix24
+  **our product** è stato realizzato puntando specificatamente ai negozi di ottica favorendo la gestione dei contratti delle lenti a contatto piuttosto di altre caratteristiche che passano in secondo piano
+
  
