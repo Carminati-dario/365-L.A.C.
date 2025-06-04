@@ -1,0 +1,17 @@
+{
+  "name": "365-l.a.c.",
+  "version": "1.0.0",
+  "description": "## _TagLine_    Applicazione per la gestione dei contratti dei clienti per la prenotazione delle lenti a contatto e il controllo della vista.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
